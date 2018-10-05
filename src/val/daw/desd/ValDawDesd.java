@@ -34,7 +34,7 @@ public class ValDawDesd
     {}
     
     public String getGarciaMario ()
-    {}
+    {return "soc en mario garcia";}
     
     public String getGomezKevin ()
     {}
