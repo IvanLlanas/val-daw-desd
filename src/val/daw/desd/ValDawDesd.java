@@ -62,7 +62,9 @@ public class ValDawDesd
     {}
     
     public String getOrtizDavid ()
-    {}
+    {
+    return "Codigo modificado!"
+    }
     
     public String getOteroDavid (float num1, float num2)
     {
