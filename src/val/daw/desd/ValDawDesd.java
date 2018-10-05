@@ -25,7 +25,7 @@ public class ValDawDesd
     }
 
     public String getBrugueraAbraham ()
-    {}
+    {return "Holaaaa";}
 
     public String getDuranCristian ()
     {return "Hi there! I'm using glases!";}
@@ -45,10 +45,13 @@ public class ValDawDesd
     }
     
     public String getLopezPau ()
-    {}
+    {
+        return "Hola profe el Pau Lopez";
+    }
     
     public String getLorenteLuis ()
-    {}
+    { return " *_* actualizazndo rep soy Luis.";
+    }
     
     public String getMaciasAlejandro ()
     {}
@@ -78,5 +81,7 @@ public class ValDawDesd
     }
     
     public String getRuizEric ()
-    {}
+    {
+        System.out.println("Hi ^.^/ ");
+    }
 }
