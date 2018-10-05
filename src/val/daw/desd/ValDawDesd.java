@@ -26,7 +26,7 @@ public class ValDawDesd
     }
 
     public String getBrugueraAbraham ()
-    {}
+    {return "Holaaaa";}
 
     public String getDuranCristian ()
     {return "Hi there! I'm using glases!";}
@@ -46,7 +46,9 @@ public class ValDawDesd
     }
     
     public String getLopezPau ()
-    {}
+    {
+        return "Hola profe el Pau Lopez";
+    }
     
     public String getLorenteLuis ()
     {}
@@ -55,7 +57,7 @@ public class ValDawDesd
     {}
     
     public String getMinanaPol ()
-    {retun "Hola soc el Pol";}
+    {return "Hola soc el Pol";}
     
     public String getOrtizDavid ()
     {}
