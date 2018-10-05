@@ -25,7 +25,7 @@ public class ValDawDesd
     {}
 
     public String getDuranCristian ()
-    {}
+    {return "Hi there! I'm using glases!";}
     
     public String getFiolBernat ()
     {}
@@ -34,7 +34,7 @@ public class ValDawDesd
     {}
     
     public String getGarciaMario ()
-    {}
+    {return "soc en mario garcia";}
     
     public String getGomezKevin ()
     {}
