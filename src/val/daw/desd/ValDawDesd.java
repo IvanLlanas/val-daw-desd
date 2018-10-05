@@ -1,3 +1,5 @@
+
+
 package val.daw.desd;
 
 /**
@@ -50,14 +52,13 @@ public class ValDawDesd
     }
     
     public String getLorenteLuis ()
-    { return " *_* actualizazndo rep soy Luis.";
-    }
+    {}
     
     public String getMaciasAlejandro ()
     {}
     
     public String getMinanaPol ()
-    {}
+    {return "Hola soc el Pol";}
     
     public String getOrtizDavid ()
     {}
@@ -81,7 +82,8 @@ public class ValDawDesd
     }
     
     public String getRuizEric ()
-    {
-        System.out.println("Hi ^.^/ ");
-    }
+    {}
 }
+
+
+
