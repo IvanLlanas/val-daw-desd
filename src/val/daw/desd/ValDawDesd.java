@@ -36,7 +36,7 @@ public class ValDawDesd
     {return "he modificat la funcio";}
     
     public String getFreixaMax ()
-    {}
+    {return "aixo es una mica de codi";}
     
     public String getGarciaMario ()
     {return "soc en mario garcia";}
