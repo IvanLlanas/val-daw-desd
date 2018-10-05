@@ -49,7 +49,7 @@ public class ValDawDesd
     {}
     
     public String getMinanaPol ()
-    {}
+    {return "Usted que ha estado en la mar, ¿esto es pulpo o es calamat?"}
     
     public String getOrtizDavid ()
     {}
