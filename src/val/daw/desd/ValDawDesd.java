@@ -18,8 +18,11 @@ public class ValDawDesd
     public String getAlbaAlex ()
     {}
     
-    public String getBordesFelix ()
-    {}
+    public String getBordesFelix (int n1, int n2)
+    {
+    System.out.println ("Metodo getBordesFelix");
+    return "Felix "+(n1+n2);
+    }
 
     public String getBrugueraAbraham ()
     {}
@@ -62,10 +65,15 @@ public class ValDawDesd
     }
     
     public String getReyesRoger ()
-    {}
+    {
+        return "He modificat el meu mètode. ";
+    }
     
     public String getRodriguezDavid ()
-    {}
+    {
+        System.out.println("Soy David Rodríguez Ortuño");
+    
+    }
     
     public String getRuizEric ()
     {}
