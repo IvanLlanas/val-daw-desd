@@ -31,7 +31,7 @@ public class ValDawDesd
     {return "Hi there! I'm using glases!";}
     
     public String getFiolBernat ()
-    {Return "he modificat la funcio";}
+    {return "he modificat la funcio";}
     
     public String getFreixaMax ()
     {}
