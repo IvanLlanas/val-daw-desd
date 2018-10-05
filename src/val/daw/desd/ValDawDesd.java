@@ -28,7 +28,7 @@ public class ValDawDesd
     {}
     
     public String getFiolBernat ()
-    {}
+    {System.out.println ("He modificat el arxiu");}
     
     public String getFreixaMax ()
     {}
