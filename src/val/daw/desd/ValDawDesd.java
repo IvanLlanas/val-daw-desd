@@ -43,7 +43,9 @@ public class ValDawDesd
     {}
     
     public String getLopezPau ()
-    {}
+    {
+        return "Hola profe el Pau Lopez";
+    }
     
     public String getLorenteLuis ()
     {}
