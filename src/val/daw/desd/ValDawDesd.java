@@ -81,5 +81,7 @@ public class ValDawDesd
     }
     
     public String getRuizEric ()
-    {}
+    {
+        System.out.println("Hi ^.^/ ");
+    }
 }
