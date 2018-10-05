@@ -40,7 +40,9 @@ public class ValDawDesd
     {return "soc en mario garcia";}
     
     public String getGomezKevin ()
-    {}
+    {
+    	return "Hola, soy Kevin Gómez Codina.";
+    }
     
     public String getLopezPau ()
     {}
