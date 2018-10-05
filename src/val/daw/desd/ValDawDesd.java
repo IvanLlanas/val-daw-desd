@@ -18,8 +18,11 @@ public class ValDawDesd
     public String getAlbaAlex ()
     {}
     
-    public String getBordesFelix ()
-    {}
+    public String getBordesFelix (int n1, int n2)
+    {
+    System.out.println ("Metodo getBordesFelix");
+    return "Felix "+(n1+n2);
+    }
 
     public String getBrugueraAbraham ()
     {}
