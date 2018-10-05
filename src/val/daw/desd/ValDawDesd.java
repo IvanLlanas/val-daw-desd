@@ -65,7 +65,9 @@ public class ValDawDesd
     }
     
     public String getReyesRoger ()
-    {}
+    {
+        return "He modificat el meu mètode. ";
+    }
     
     public String getRodriguezDavid ()
     {}
