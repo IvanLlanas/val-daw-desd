@@ -57,8 +57,12 @@ public class ValDawDesd
     public String getOrtizDavid ()
     {}
     
-    public String getOteroDavid ()
-    {}
+    public String getOteroDavid (float num1, float num2)
+    {
+		float num3 = num1*num2;
+		String codi = "El codi super interesant es una multiplicacio entre el numero: "+num1+" i el numero: "+num2+". "+num1+" * "+num2+" = "+num3+"!";
+		return codi;
+    }
     
     public String getReyesRoger ()
     {}
