@@ -50,7 +50,8 @@ public class ValDawDesd
     }
     
     public String getLorenteLuis ()
-    {}
+    { return " *_* actualizazndo rep soy Luis.";
+    }
     
     public String getMaciasAlejandro ()
     {}
