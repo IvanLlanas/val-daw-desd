@@ -25,7 +25,7 @@ public class ValDawDesd
     }
 
     public String getBrugueraAbraham ()
-    {}
+    {return "Holaaaa";}
 
     public String getDuranCristian ()
     {return "Hi there! I'm using glases!";}
